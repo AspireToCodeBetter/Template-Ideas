@@ -21,3 +21,6 @@ Hence, we will use this document to keep tracking ideas and test out valid conce
 	+ [Getting Started with CSS Shapes: Wrapping content around custom paths - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/shapes/getting-started/)
 
 
+###MARKETING
+
++ [40 Actionable Growth Hacking Ideas Successful Startups Are Using | Alltopstartups.com](http://alltopstartups.com/2014/07/31/40-actionable-growth-hacking-ideas/)
